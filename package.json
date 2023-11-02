@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dihgab/zap-gpt/issues"
   },
-  "homepage": "https://github.com/dihgab/zap-gpt#readme"
+  "homepage": "https://github.com/dihgab/zap-gpt#readme",
+  "dependencies": {
+    "venom-bot": "^5.0.21"
+  }
 }
