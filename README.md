@@ -1,6 +1,6 @@
-<h1 align='center'>Bot-WhatsApp</h1>
+<h1 align='center'>ZAP-GPT</h1>
 <p align='center'>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 * [Descrição](#Descrição)
@@ -30,10 +30,10 @@ Também precisara obter uma chave API do OpenAI. Para fazer isso, siga estas eta
 
 Para instalar as dependências do projeto, execute o seguinte comando:
  ``` 
- git clone https://github.com/EvandroRodCoelho/Bot-WhatsApp.git
+ git clone https://github.com/dihgab/zap-gpt.git
  ```
  ```
- cd Bot-Whatspp
+ cd zap-gpt
  ```
  ```
  npm install
