@@ -41,7 +41,7 @@ Para instalar as dependências do projeto, execute o seguinte comando:
 O projeto utiliza um arquivo `.env` para armazenar variáveis de ambiente.Por isso siga esses passos:
 
 1. No arquivo `.example.env` e renomeie-o para `.env`.
-2. Substitua `Your_Api_key` pela sua chave da API do OpenAI.
+2. Substitua `your_api_key` pela sua chave da API do OpenAI.
 3. Salve o arquivo `.env` e feche-o.
 
 ## Uso
