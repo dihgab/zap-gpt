@@ -1,22 +1,28 @@
 {
-  "name": "zap-gpt",
-  "version": "1.0.0",
+  "name": "bot-whatsapp",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx ./src/main.ts"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dihgab/zap-gpt.git"
+  "author": "Evandro Rodrigues Coelho <evandrorodcoelho@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "eslint": "^8.38.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.4"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dihgab/zap-gpt/issues"
-  },
-  "homepage": "https://github.com/dihgab/zap-gpt#readme",
   "dependencies": {
-    "venom-bot": "^5.0.21"
+    "axios": "^1.3.5",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "venom-bot": "^5.0.0"
   }
 }
